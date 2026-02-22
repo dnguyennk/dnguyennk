@@ -108,9 +108,9 @@ motto: "Math in, intelligence out"
 
 ### 💬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6e40c9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dnguyennk)
-[![Email](https://img.shields.io/badge/Email-bc4c9c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-f778ba?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6e40c9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nkduyennguyen)
+[![Email](https://img.shields.io/badge/Email-bc4c9c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duyen.ng246@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f778ba?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/ai-portfolio-DN)
 
 <br/>
 
