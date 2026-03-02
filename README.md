@@ -31,7 +31,7 @@ motto: "Math in, intelligence out"
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dnguyennk&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&title=Stars,Commits,Followers,Repositories,MultipleLang,PullRequest,Issues)
+![Trophies](https://github-profile-trophy.vercel.app/?username=dnguyennk&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)
 
 </div>
 
